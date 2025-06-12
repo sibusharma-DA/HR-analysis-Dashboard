@@ -36,3 +36,4 @@ Salary distribution analysis
 Clean UI/UX design for easy interpretation
 
 Dynamic cards for key KPIs (Total Employees, Attrition Rate, Avg. Salary)
+
