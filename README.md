@@ -44,3 +44,8 @@ Created an HR Analytics Dashboard using Power BI, based on Excel attendance data
 
 <img https://github.com/sibusharma-DA/HR-analysis-Dashboard/blob/2fda6e7e29127edda777aa631d2318f1b2c53d83/HR%20dashboard.png >
 
+#### Updated Dashboard
+
+---
+<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
+
