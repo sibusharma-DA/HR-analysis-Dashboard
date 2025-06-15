@@ -42,5 +42,5 @@ Corporate branding and color-coded metrics for clean presentation
 📊 Project Summary (For Resume)
 Created an HR Analytics Dashboard using Power BI, based on Excel attendance data. The dashboard includes key metrics like % Present, WFH %, and SL %, with time series visualizations and filters for interactive exploration. Leveraged Power Query for data preparation and DAX for calculating trends and metrics. This project demonstrates proficiency in Power BI, HR reporting, and performance monitoring, aligning with real-world data analyst responsibilities in workforce analytics.
 
-
+<img https://github.com/sibusharma-DA/HR-analysis-Dashboard/blob/2fda6e7e29127edda777aa631d2318f1b2c53d83/HR%20dashboard.png >
 
