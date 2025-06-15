@@ -1,39 +1,46 @@
 # HR-analysis-Dashboard
 
-📊 HR Data Analysis Dashboard
-A data-driven interactive dashboard to explore and analyze HR metrics for better decision-making in workforce management.
-
-🔹 Short Description
-An interactive HR dashboard designed to track and visualize key metrics such as employee attrition, hiring trends, department-wise headcount, and average salary. It enables data-driven HR decisions through insightful visuals.
+📊 Short Description
+An interactive HR dashboard developed in Power BI to monitor employee presence, work-from-home (WFH), and sick leave (SL) trends across a defined period. This dashboard provides HR teams and managers with actionable insights to improve attendance tracking, manage remote work, and identify absentee patterns.
 
 🛠️ Tech Stack
-Power BI – for dashboard creation and data visualization
 
-Microsoft Excel – for data preprocessing and transformation
+Power BI – for building dynamic visual reports and data visuals
 
-DAX (Data Analysis Expressions) – for custom calculations and KPIs
+Microsoft Excel – as the primary data source (raw attendance logs)
 
-Power Query – for data cleaning and shaping
+DAX – for calculated fields like % Present, % WFH, and % SL
+
+Power Query – for data transformation and cleansing
 
 🔗 Data Source
-Employee Master Data (CSV/Excel format)
 
-Attrition and Hiring Reports
+Employee attendance logs with daily status (P, WFH, SL, HPL, HML, etc.)
 
-Salary and Department Records
+Date-wise records of employee presence
 
-Attendance Logs (if applicable)
+Department, employee name, and attendance types
+
+Excel format file covering multiple weeks
 
 ✨ Features Highlight
-Interactive filters by department, gender, education, and job role
 
-Attrition analysis with yearly and department-wise breakdown
+KPIs: Overall % Present, % Work From Home, % Sick Leave
 
-Headcount and hiring trend visuals
+Visual trendlines showing daily/weekly % changes over time
 
-Salary distribution analysis
+Breakdown of attendance by Day of the Week
 
-Clean UI/UX design for easy interpretation
+Employee-level summary table with sortable columns
 
-Dynamic cards for key KPIs (Total Employees, Attrition Rate, Avg. Salary)
+Date range filters and slicers for dynamic time analysis
+
+Heatmap table to track individual daily attendance at a glance
+
+Corporate branding and color-coded metrics for clean presentation
+
+📊 Project Summary (For Resume)
+Created an HR Analytics Dashboard using Power BI, based on Excel attendance data. The dashboard includes key metrics like % Present, WFH %, and SL %, with time series visualizations and filters for interactive exploration. Leveraged Power Query for data preparation and DAX for calculating trends and metrics. This project demonstrates proficiency in Power BI, HR reporting, and performance monitoring, aligning with real-world data analyst responsibilities in workforce analytics.
+
+
 
